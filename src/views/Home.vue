@@ -157,7 +157,7 @@
 						<ul class=" navbar-right">
 							<li class="nav-item dropdown open" style="padding-left: 15px;">
 								<a href="javascript:;" class="user-profile dropdown-toggle" aria-haspopup="true" id="navbarDropdown"
-									 data-toggle="dropdown" aria-expanded="false">
+									data-toggle="dropdown" aria-expanded="false">
 									<img src="images/img.jpg" alt="">John Doe
 								</a>
 								<div class="dropdown-menu dropdown-usermenu pull-right" aria-labelledby="navbarDropdown">
@@ -173,7 +173,7 @@
 
 							<li role="presentation" class="nav-item dropdown open">
 								<a href="javascript:;" class="dropdown-toggle info-number" id="navbarDropdown1" data-toggle="dropdown"
-									 aria-expanded="false">
+									aria-expanded="false">
 									<i class="fa fa-envelope-o"></i>
 									<span class="badge bg-green">6</span>
 								</a>
@@ -315,7 +315,7 @@
 											<label class="control-label col-md-3 col-sm-3 col-xs-3">Serial Number</label>
 											<div class="col-md-9 col-sm-9 col-xs-9">
 												<input type="text" class="form-control"
-															 data-inputmask="'mask' : '****-****-****-****-****-***'">
+															data-inputmask="'mask' : '****-****-****-****-****-***'">
 												<span class="fa fa-user form-control-feedback right" aria-hidden="true"></span>
 											</div>
 										</div>
@@ -394,14 +394,14 @@
 											<label class="control-label col-md-3 col-sm-3  ">Horizontal bar</label>
 											<div class="col-md-9 col-sm-9  ">
 												<input type="text" class="form-control demo colorpicker-element" data-horizontal="true"
-															 id="demo_forceformat" value="#8fff00">
+															id="demo_forceformat" value="#8fff00">
 											</div>
 										</div>
 										<div class="form-group row">
 											<label class="control-label col-md-3 col-sm-3  ">Vertical bar</label>
 											<div class="col-md-9 col-sm-9  ">
 												<input type="text" class="form-control demo colorpicker-element" id="demo_forceformat3"
-															 value="#8fff00">
+															value="#8fff00">
 											</div>
 										</div>
 										<div class="form-group row">
@@ -409,9 +409,9 @@
 											<div class="col-md-9 col-sm-9  ">
 												<div class="well">
 													<div id="demo_cont" class="demo demo-auto inl-bl colorpicker-element"
-															 data-container="#demo_cont" data-color="rgba(150,216,62,0.55)" data-inline="true"></div>
+															data-container="#demo_cont" data-color="rgba(150,216,62,0.55)" data-inline="true"></div>
 													<div class="demo demo-auto inl-bl colorpicker-element" data-container="true"
-															 data-color="rgb(50,216,62)" data-inline="true" style="margin-left:20px;"></div>
+															data-color="rgb(50,216,62)" data-inline="true" style="margin-left:20px;"></div>
 												</div>
 											</div>
 										</div>
@@ -449,32 +449,32 @@
 									<div class="col-md-2">
 										<p>Display value</p>
 										<input class="knob" data-width="100" data-height="120" data-min="-100" data-displayPrevious=true
-													 data-fgColor="#26B99A" value="44">
+													data-fgColor="#26B99A" value="44">
 									</div>
 									<div class="col-md-2">
 										<p>&#215; 'cursor' mode</p>
 										<input class="knob" data-width="100" data-height="120" data-cursor=true data-fgColor="#34495E"
-													 value="29">
+													value="29">
 									</div>
 									<div class="col-md-2">
 										<p>Step 0.1</p>
 										<input class="knob" data-width="100" data-height="120" data-min="-10000" data-displayPrevious=true
-													 data-fgColor="#26B99A" data-max="10000" data-step=".1" value="0">
+													data-fgColor="#26B99A" data-max="10000" data-step=".1" value="0">
 									</div>
 									<div class="col-md-2">
 										<p>Angle arc</p>
 										<input class="knob" data-width="100" data-height="120" data-angleOffset=-125 data-angleArc=250
-													 data-fgColor="#34495E" data-rotation="anticlockwise" value="35">
+													data-fgColor="#34495E" data-rotation="anticlockwise" value="35">
 									</div>
 									<div class="col-md-2">
 										<p>Alternate design</p>
 										<input class="knob" data-width="110" data-height="120" data-displayPrevious=true
-													 data-fgColor="#26B99A" data-skin="tron" data-thickness=".2" value="75">
+													data-fgColor="#26B99A" data-skin="tron" data-thickness=".2" value="75">
 									</div>
 									<div class="col-md-2">
 										<p>Angle offset</p>
 										<input class="knob" data-width="100" data-height="120" data-angleOffset=90 data-linecap=round
-													 data-fgColor="#26B99A" value="35">
+													data-fgColor="#26B99A" value="35">
 									</div>
 								</div>
 							</div>
@@ -515,7 +515,7 @@
 									<div class="well" style="overflow: auto">
 										<div class="col-md-4">
 											<div id="reportrange_right" class="pull-left"
-													 style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
+													style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
 												<i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
 												<span>December 30, 2014 - January 28, 2015</span> <b class="caret"></b>
 											</div>
@@ -525,7 +525,7 @@
 										</div>
 										<div class="col-md-4">
 											<div id="reportrange" class="pull-right"
-													 style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
+													style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
 												<i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
 												<span>December 30, 2014 - January 28, 2015</span> <b class="caret"></b>
 											</div>
@@ -544,7 +544,7 @@
 																<span class="add-on input-group-addon"><i
 																		class="glyphicon glyphicon-calendar fa fa-calendar"></i></span>
 																<input type="text" style="width: 200px" name="reservation" id="reservation"
-																			 class="form-control" value="01/01/2016 - 01/25/2016"/>
+																			class="form-control" value="01/01/2016 - 01/25/2016"/>
 															</div>
 														</div>
 													</div>
@@ -562,7 +562,7 @@
 																<span class="add-on input-group-addon"><i
 																		class="glyphicon glyphicon-calendar fa fa-calendar"></i></span>
 																<input type="text" name="reservation-time" id="reservation-time" class="form-control"
-																			 value="01/01/2016 - 01/25/2016"/>
+																			value="01/01/2016 - 01/25/2016"/>
 															</div>
 														</div>
 													</div>
@@ -763,7 +763,7 @@
 													<div class="controls">
 														<div class="col-md-11 xdisplay_inputx form-group row has-feedback">
 															<input type="text" class="form-control has-feedback-left" id="single_cal1"
-																		 placeholder="First Name" aria-describedby="inputSuccess2Status">
+																		placeholder="First Name" aria-describedby="inputSuccess2Status">
 															<span class="fa fa-calendar-o form-control-feedback left" aria-hidden="true"></span>
 															<span id="inputSuccess2Status" class="sr-only">(success)</span>
 														</div>
@@ -964,7 +964,7 @@
 													<div class="controls">
 														<div class="col-md-11 xdisplay_inputx form-group row has-feedback">
 															<input type="text" class="form-control has-feedback-left" id="single_cal2"
-																		 placeholder="First Name" aria-describedby="inputSuccess2Status2">
+																		placeholder="First Name" aria-describedby="inputSuccess2Status2">
 															<span class="fa fa-calendar-o form-control-feedback left" aria-hidden="true"></span>
 															<span id="inputSuccess2Status2" class="sr-only">(success)</span>
 														</div>
@@ -1163,7 +1163,7 @@
 													<div class="controls">
 														<div class="col-md-11 xdisplay_inputx form-group row has-feedback">
 															<input type="text" class="form-control has-feedback-left" id="single_cal3"
-																		 placeholder="First Name" aria-describedby="inputSuccess2Status3">
+																		placeholder="First Name" aria-describedby="inputSuccess2Status3">
 															<span class="fa fa-calendar-o form-control-feedback left" aria-hidden="true"></span>
 															<span id="inputSuccess2Status3" class="sr-only">(success)</span>
 														</div>
@@ -1363,7 +1363,7 @@
 													<div class="controls">
 														<div class="col-md-11 xdisplay_inputx form-group row has-feedback">
 															<input type="text" class="form-control has-feedback-left" id="single_cal4"
-																		 placeholder="First Name" aria-describedby="inputSuccess2Status4">
+																		placeholder="First Name" aria-describedby="inputSuccess2Status4">
 															<span class="fa fa-calendar-o form-control-feedback left" aria-hidden="true"></span>
 															<span id="inputSuccess2Status4" class="sr-only">(success)</span>
 														</div>
@@ -1759,7 +1759,7 @@
 
 										<!-- Show the cropped image in modal -->
 										<div class="modal fade docs-cropped" id="getCroppedCanvasModal" aria-hidden="true"
-												 aria-labelledby="getCroppedCanvasTitle" role="dialog" tabindex="-1">
+												aria-labelledby="getCroppedCanvasTitle" role="dialog" tabindex="-1">
 											<div class="modal-dialog">
 												<div class="modal-content">
 													<div class="modal-header">
@@ -1840,7 +1840,7 @@
                         </span>
 										</button>
 										<input type="text" class="form-control" id="putData"
-													 placeholder="Get data to here or set data with this value">
+													placeholder="Get data to here or set data with this value">
 									</div><!-- /.docs-buttons -->
 
 									<div class="col-md-3 docs-toggles">
@@ -1848,14 +1848,14 @@
 										<div class="btn-group btn-group-justified" data-toggle="buttons">
 											<label class="btn btn-primary active">
 												<input type="radio" class="sr-only" id="aspectRatio0" name="aspectRatio"
-															 value="1.7777777777777777">
+															value="1.7777777777777777">
 												<span class="docs-tooltip" data-toggle="tooltip" title="aspectRatio: 16 / 9">
                             16:9
                           </span>
 											</label>
 											<label class="btn btn-primary">
 												<input type="radio" class="sr-only" id="aspectRatio1" name="aspectRatio"
-															 value="1.3333333333333333">
+															value="1.3333333333333333">
 												<span class="docs-tooltip" data-toggle="tooltip" title="aspectRatio: 4 / 3">
                             4:3
                           </span>
@@ -1868,7 +1868,7 @@
 											</label>
 											<label class="btn btn-primary">
 												<input type="radio" class="sr-only" id="aspectRatio3" name="aspectRatio"
-															 value="0.6666666666666666">
+															value="0.6666666666666666">
 												<span class="docs-tooltip" data-toggle="tooltip" title="aspectRatio: 2 / 3">
                             2:3
                           </span>
@@ -2035,7 +2035,7 @@
 										</div><!-- /.dropdown -->
 
 										<a class="btn btn-default btn-block" data-toggle="tooltip"
-											 href="https://fengyuanchen.github.io/cropperjs" title="Cropper without jQuery">Cropper.js</a>
+											href="https://fengyuanchen.github.io/cropperjs" title="Cropper without jQuery">Cropper.js</a>
 
 									</div><!-- /.docs-toggles -->
 								</div>
